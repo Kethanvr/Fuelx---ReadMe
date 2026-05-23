@@ -102,7 +102,7 @@ FuelX was built from scratch as a fully production-deployed application: contain
 | | |
 |---|---|
 | 🌐 Portfolio | [kethanvr.me](https://kethanvr.me) |
-| 💼 LinkedIn | [linkedin.com/in/kethan-vr-433ab532b](https://linkedin.com/in/kethan-vr-433ab532b) |
+| 💼 LinkedIn | [linkedin.com/in/kethan-vr-433ab532b](https://github.com/Kethanvr) |
 | 🐙 GitHub | [github.com/Kethanvr](https://github.com/Kethanvr) |
 | 🐦 X / Twitter | [@VrKethan](https://x.com/VrKethan) |
 
